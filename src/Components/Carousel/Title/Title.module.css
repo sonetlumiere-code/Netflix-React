@@ -1,0 +1,11 @@
+.title {
+    color: #fff;
+    padding-left: 20px;
+}
+
+@media (max-width: 991px) {
+    .title {
+        font-size: 1.2em;
+        padding-left: 8px;
+    }
+}
