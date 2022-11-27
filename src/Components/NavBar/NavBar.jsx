@@ -17,7 +17,7 @@ const NavBar = () => {
           <li><a href={'/'}>Series</a></li>
           <li><a href={'/'}>Peliculas</a></li>
           <li><a href={'/'}>Novedades populares</a></li>
-          <li><a href={'/'}>Mi lista</a></li>
+          {/* <li><a href={'/'}>Mi lista</a></li> */}
         </ul>
       </nav>     
     </>
